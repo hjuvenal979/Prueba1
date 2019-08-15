@@ -1,3 +1,9 @@
+commit 1eccc713eb38c782e10cae7a027ec0fae411750b
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 12:13:34 2019 -0500
+
+    txt de los log otro
+
 commit e2de82d784da164b9c3e0b427c54cab515fd2c95
 Author: Joel <joelcavada65@gmail.com>
 Date:   Thu Aug 15 12:04:00 2019 -0500
