@@ -1,0 +1,96 @@
+commit 94e654c4a6b65afdb76096693f94cfdd91116a52
+Merge: b1a5268 c803e81
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 15:08:43 2019 -0500
+
+    a combinar
+
+commit c803e812aaec6b1508d9867a7b70ffaf4393eff0
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 15:01:21 2019 -0500
+
+    a combinar
+
+commit 5a1bb57217c61c22b24b55a293fb90ae7ccb7423
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 15:00:02 2019 -0500
+
+    no hay nada
+
+commit b1a526817e22788a5e15844f46d5e57ab7b69b9b
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 14:59:25 2019 -0500
+
+    no hay nada
+
+commit b3d3d589744a72fae51e63f98f93983f3adb3da6
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 14:56:57 2019 -0500
+
+    se agrego txt en master
+
+commit 05cfe343ff35f77e6bf504db4ba20563ed531c6e
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 14:43:15 2019 -0500
+
+    prueba 14:43
+
+commit c5e748b7ad366f14e90686702f6ce3b9680599ef
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 14:41:01 2019 -0500
+
+    prueba 14:40
+
+commit f32ee4c71986c8f4900349b99f761587fac2bbd8
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 12:14:48 2019 -0500
+
+    txt de los log otro2
+
+commit 1eccc713eb38c782e10cae7a027ec0fae411750b
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 12:13:34 2019 -0500
+
+    txt de los log otro
+
+commit f81412efe5a229934a40a6beb4d27edada3856a9
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 12:12:24 2019 -0500
+
+    txt de los log master
+
+commit e2de82d784da164b9c3e0b427c54cab515fd2c95
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 12:04:00 2019 -0500
+
+    nuevo txt en login
+
+commit 8983e51d0851dafcba1b73fa3a35e8fc7a68628c
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 08:39:23 2019 -0500
+
+    Cuarto commit
+
+commit d1d0feb05164d8a5badac9713a5969bae3c9500d
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 08:38:31 2019 -0500
+
+    Tercer commit
+
+commit c132eb279a3e80e6cc4cd5b4b532443e49d959d5
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 08:38:00 2019 -0500
+
+    Segundo commit
+
+commit fdf0830319830495026945fda484567cab1554aa
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 08:19:22 2019 -0500
+
+    Segundo commit
+
+commit f41ee7db6195fecc4f9d374217fe3d4aac9649d5
+Author: Joel <joelcavada65@gmail.com>
+Date:   Thu Aug 15 08:18:12 2019 -0500
+
+    Principio
